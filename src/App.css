@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans+Condensed:ital,wght@0,300;0,400;1,200;1,400&display=swap');
+
+body{
+    font-family:"Sofia Sans Condensed",sans-serif;
+    background: linear-gradient(
+        180deg,
+        rgba(245,71,71,0.216) 0%,
+        rgba(245,71,72,0) 100%
+    );
+    background-size: cover;   
+}
